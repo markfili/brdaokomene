@@ -1,0 +1,799 @@
+{
+  "type": "FeatureCollection",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-24T19:43:22Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/454605461",
+        "ele": "345",
+        "natural": "peak",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4392381,
+          45.5273807
+        ]
+      },
+      "id": "node/454605461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/954274248",
+        "ele": "210",
+        "name": "Lipova glavica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5967017,
+          45.3542795
+        ]
+      },
+      "id": "node/954274248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/954274258",
+        "ele": "345",
+        "name": "Martinšćak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5794684,
+          45.4073941
+        ]
+      },
+      "id": "node/954274258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/954274260",
+        "ele": "263",
+        "name": "Kozlinska glavica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5205452,
+          45.365249
+        ]
+      },
+      "id": "node/954274260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/954274270",
+        "ele": "256",
+        "name": "Pišćac",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5455027,
+          45.395993
+        ]
+      },
+      "id": "node/954274270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/954274283",
+        "ele": "211",
+        "name": "Galovo Brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5931379,
+          45.379252
+        ]
+      },
+      "id": "node/954274283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1227024344",
+        "ele": "321",
+        "name": "Vinica",
+        "natural": "peak",
+        "wikidata": "Q25287038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5252413,
+          45.4448059
+        ]
+      },
+      "id": "node/1227024344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2421163312",
+        "ele": "538",
+        "name": "Vodenica",
+        "natural": "peak",
+        "wikidata": "Q25287065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4089142,
+          45.5924372
+        ]
+      },
+      "id": "node/2421163312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3911355232",
+        "ele": "176",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7706928,
+          45.4749893
+        ]
+      },
+      "id": "node/3911355232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4421052615",
+        "ele": "291",
+        "name": "Stražište",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7728106,
+          45.4289185
+        ]
+      },
+      "id": "node/4421052615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4805194748",
+        "ele": "212",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4844392,
+          45.4468422
+        ]
+      },
+      "id": "node/4805194748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4808351119",
+        "ele": "227",
+        "name": "Dugi vrh",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5121703,
+          45.5438095
+        ]
+      },
+      "id": "node/4808351119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4852658680",
+        "ele": "291",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4242084,
+          45.6360761
+        ]
+      },
+      "id": "node/4852658680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4853127085",
+        "ele": "344",
+        "name": "Ravan",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4323647,
+          45.6054549
+        ]
+      },
+      "id": "node/4853127085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4895990827",
+        "ele": "235",
+        "name": "Sladić brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4376056,
+          45.4444694
+        ]
+      },
+      "id": "node/4895990827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4896580891",
+        "ele": "236",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4914724,
+          45.4041168
+        ]
+      },
+      "id": "node/4896580891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5092566882",
+        "ele": "201",
+        "name": "Marino brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.382576,
+          45.4208652
+        ]
+      },
+      "id": "node/5092566882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5132317021",
+        "ele": "465",
+        "name": "Kneja",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3389311,
+          45.5335595
+        ]
+      },
+      "id": "node/5132317021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5132317022",
+        "ele": "481",
+        "name": "Goljak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.363028,
+          45.5176996
+        ]
+      },
+      "id": "node/5132317022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5132317023",
+        "ele": "229",
+        "name": "Pisjanka",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.4610467,
+          45.5275919
+        ]
+      },
+      "id": "node/5132317023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5143914091",
+        "ele": "276",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3468275,
+          45.6081384
+        ]
+      },
+      "id": "node/5143914091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5144448046",
+        "ele": "461",
+        "name": "Ribareva ravan",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3907728,
+          45.6061419
+        ]
+      },
+      "id": "node/5144448046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5144448047",
+        "ele": "291",
+        "name": "Sveti Filip",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.372262,
+          45.6233401
+        ]
+      },
+      "id": "node/5144448047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5274872339",
+        "ele": "335",
+        "name": "Prozor",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3346181,
+          45.3775934
+        ]
+      },
+      "id": "node/5274872339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5283442706",
+        "ele": "352",
+        "name": "Vučjak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3337168,
+          45.3581314
+        ]
+      },
+      "id": "node/5283442706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5290558090",
+        "ele": "231",
+        "name": "Vršak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3938198,
+          45.3712626
+        ]
+      },
+      "id": "node/5290558090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202771648",
+        "ele": "295",
+        "name": "Vinogradina",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6455612,
+          45.3643582
+        ]
+      },
+      "id": "node/6202771648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202771649",
+        "ele": "222",
+        "name": "Opačić glavica",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6201553,
+          45.3809997
+        ]
+      },
+      "id": "node/6202771649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202771650",
+        "ele": "270",
+        "name": "Stanište",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6439304,
+          45.3903283
+        ]
+      },
+      "id": "node/6202771650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202771651",
+        "ele": "256",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6247258,
+          45.4026987
+        ]
+      },
+      "id": "node/6202771651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202781520",
+        "ele": "196",
+        "name": "Cigansko brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5922335,
+          45.3988907
+        ]
+      },
+      "id": "node/6202781520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7032922450",
+        "ele": "111",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7303832,
+          45.6160308
+        ]
+      },
+      "id": "node/7032922450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7968827350",
+        "ele": "198",
+        "name": "Kokotovo brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5032961,
+          45.3846356
+        ]
+      },
+      "id": "node/7968827350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8709583590",
+        "ele": "229.6",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.628562,
+          45.3687882
+        ]
+      },
+      "id": "node/8709583590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286628929",
+        "ele": "297",
+        "name": "Vrh",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3180974,
+          45.5062528
+        ]
+      },
+      "id": "node/9286628929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286645595",
+        "ele": "333",
+        "name": "Izgornik",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3156699,
+          45.4841387
+        ]
+      },
+      "id": "node/9286645595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286667005",
+        "ele": "309",
+        "name": "Mali vrh",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3331254,
+          45.4842067
+        ]
+      },
+      "id": "node/9286667005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286667011",
+        "ele": "266",
+        "name": "Radino brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3437812,
+          45.4805334
+        ]
+      },
+      "id": "node/9286667011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286669565",
+        "ele": "256",
+        "name": "Jurino brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3406414,
+          45.4986093
+        ]
+      },
+      "id": "node/9286669565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286672860",
+        "ele": "283",
+        "name": "Trešnjec",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3262575,
+          45.4937583
+        ]
+      },
+      "id": "node/9286672860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286673274",
+        "ele": "282",
+        "name": "Goljak",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3373292,
+          45.4928074
+        ]
+      },
+      "id": "node/9286673274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286673379",
+        "ele": "320",
+        "name": "Sleme",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3224654,
+          45.4790526
+        ]
+      },
+      "id": "node/9286673379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286676453",
+        "ele": "272",
+        "name": "Sveti Peter",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3454958,
+          45.4819583
+        ]
+      },
+      "id": "node/9286676453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9286707766",
+        "ele": "335",
+        "name": "Krtinjek",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3345871,
+          45.4708809
+        ]
+      },
+      "id": "node/9286707766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9750068240",
+        "ele": "215",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.3335198,
+          45.6206238
+        ]
+      },
+      "id": "node/9750068240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9765134338",
+        "ele": "175.6",
+        "name": "Kokotovo brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5198306,
+          45.4247153
+        ]
+      },
+      "id": "node/9765134338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9829186372",
+        "ele": "215",
+        "name": "Cerovo brdo",
+        "natural": "peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7602589,
+          45.368266
+        ]
+      },
+      "id": "node/9829186372"
+    }
+  ]
+}
